@@ -1,6 +1,6 @@
 // var countDownDate1 = new Date("Oct 23, 2021 06:25:35").getTime();
 var countDownDate1 = new Date("Oct 23, 2021 06:25").getTime();
-var countDownDate2 = new Date("oct 22, 2021 12:25").getTime();
+var countDownDate2 = new Date("oct 29, 2021 12:25").getTime();
 
 var time1= document.getElementById("time1")
 var time2= document.getElementById("time2")
