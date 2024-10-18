@@ -56,5 +56,14 @@
     "area": "Iieiei",
     "profile_image": "",
     "donators": []
+  },
+  {
+    "email": "amdad@test.com",
+    "mobile": "9080706040",
+    "password": "123456",
+    "full_name": "Amdadul Haque Sardar",
+    "area": "Punisole",
+    "profile_image": "https:htt",
+    "donators": []
   }
 ]
