@@ -166,5 +166,14 @@
         "image": "https://raw.githubusercontent.com/Horsamod/file/main/profile_images/IMG-20241007-WA0001.jpg"
       }
     ]
+  },
+  {
+    "email": "ahsardar2018@gmail.com",
+    "mobile": "9080706050",
+    "password": "1234567890",
+    "full_name": "Jalimul Haque Sardar",
+    "area": "Punisole",
+    "profile_image": "https://raw.githubusercontent.com/Horsamod/file/main/image/profile_1729285607608_Picsart_24-08-13_07-41-59-083.jpg",
+    "donators": []
   }
 ]
