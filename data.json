@@ -82,5 +82,14 @@
         "image": "http:yuy"
       }
     ]
+  },
+  {
+    "email": "qwert@gmail.com",
+    "mobile": "9080706050",
+    "password": "123456",
+    "full_name": "Test test Fhd",
+    "area": "Punisole",
+    "profile_image": "https://raw.githubusercontent.com/Horsamod/file/main/profile_1729277280632.png",
+    "donators": []
   }
 ]
