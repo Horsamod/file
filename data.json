@@ -64,6 +64,15 @@
     "full_name": "Amdadul Haque Sardar",
     "area": "Punisole",
     "profile_image": "https:htt",
-    "donators": []
+    "donators": [
+      {
+        "name": "Jalimul",
+        "donate": "369",
+        "area": "Punisole",
+        "date": "2024-10-18",
+        "mobile": "0987654321",
+        "image": "https://hypu"
+      }
+    ]
   }
 ]
