@@ -23,7 +23,16 @@
     "full_name": "AMDADUL HAQUE SARDAR",
     "area": "PUNISOLE",
     "profile_image": "https://raw.githubusercontent.com/Horsamod/file/main/image/profile_1729956395439_IMG-20240914-WA0000.jpg",
-    "donators": []
+    "donators": [
+      {
+        "name": "AGVYY RGH",
+        "donate": "88558",
+        "area": "PATHANPARA / PASCHIM PUNISOLE",
+        "date": "2024-10-26",
+        "mobile": "18445848",
+        "image": "https://raw.githubusercontent.com/Horsamod/file/main/DonatorImages/IMG-20240914-WA0000.jpg"
+      }
+    ]
   },
   {
     "email": "ahsardar2017@gmail.com",
