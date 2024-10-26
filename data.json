@@ -364,5 +364,14 @@
     "area": "PUNISOLE",
     "profile_image": "",
     "donators": []
+  },
+  {
+    "email": "ahsardar2018@gmail.com",
+    "mobile": "1234567890",
+    "password": "1234",
+    "full_name": "AMDADUL HAQUE SARDAR",
+    "area": "PUNISOLE",
+    "profile_image": "https://raw.githubusercontent.com/Horsamod/file/main/image/profile_1729936939833_1000344708.png",
+    "donators": []
   }
 ]
