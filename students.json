@@ -47,5 +47,12 @@
     "college": "96",
     "address": "96",
     "certificateNo": "96"
+  },
+  {
+    "rollNo": "1",
+    "name": "1",
+    "college": "1",
+    "address": "1",
+    "certificateNo": "1"
   }
 ]
