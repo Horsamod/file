@@ -106,5 +106,13 @@
     "address": "poiu",
     "certificateNo": "789",
     "fees": 741
+  },
+  {
+    "rollNo": "4569",
+    "name": "pui",
+    "college": "uio",
+    "address": "uoiuou",
+    "certificateNo": "78997",
+    "fees": 456456
   }
 ]
