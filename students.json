@@ -82,5 +82,13 @@
     "college": "hgfg",
     "address": "hgfgfh",
     "certificateNo": "fftghy"
+  },
+  {
+    "rollNo": "fg",
+    "name": "gfg",
+    "college": "fggf",
+    "address": "gfg",
+    "certificateNo": "fggf",
+    "fees": 545
   }
 ]
