@@ -1,158 +1,483 @@
 [
   {
-    "rollNo": "Ghh",
-    "name": "Ggg",
-    "college": "Ggg",
-    "address": "Yyyu",
-    "certificateNo": "Yyy"
-  },
-  {
     "rollNo": "180819087215",
-    "name": "Shaiful khan",
-    "college": "Bankuri Private ITI",
-    "address": "Dhaldanga Bankura",
-    "certificateNo": "24009858360015"
+    "name": "Arindam Roy",
+    "college": "Durgapur ITI",
+    "address": "Durgapur, West Bengal",
+    "certificateNo": "200940000002027",
+    "fees": 2000
   },
   {
-    "rollNo": "Oowo",
-    "name": "Kkeke",
-    "college": "kekek",
-    "address": "Kwkke",
-    "certificateNo": "Kwkkwk"
+    "rollNo": "180819090289",
+    "name": "Sourav Das",
+    "college": "Kolkata Private ITI",
+    "address": "Kolkata, West Bengal",
+    "certificateNo": "200940000040760",
+    "fees": 2000
   },
   {
-    "rollNo": "l;l",
-    "name": "ll",
-    "college": "lkl",
-    "address": "lk",
-    "certificateNo": "kl"
+    "rollNo": "R180809130830",
+    "name": "Rupesh Mondal",
+    "college": "Malda ITI",
+    "address": "Malda, West Bengal",
+    "certificateNo": "200940000079037",
+    "fees": 2000
   },
   {
-    "rollNo": "Hhh",
-    "name": "Lrt",
-    "college": "856",
-    "address": "088",
-    "certificateNo": "8778"
+    "rollNo": "R180809130891",
+    "name": "Rahul Saha",
+    "college": "Hooghly ITI",
+    "address": "Chinsurah, West Bengal",
+    "certificateNo": "201940000417305",
+    "fees": 2000
   },
   {
-    "rollNo": "896",
-    "name": "tyyt",
-    "college": "tyt",
-    "address": "yty",
-    "certificateNo": "897"
+    "rollNo": "R180809701643",
+    "name": "Priya Dutta",
+    "college": "Nadia Private ITI",
+    "address": "Kalyani, West Bengal",
+    "certificateNo": "201940000417321",
+    "fees": 2000
   },
   {
-    "rollNo": "18",
-    "name": "96",
-    "college": "96",
-    "address": "96",
-    "certificateNo": "96"
+    "rollNo": "R180819001276",
+    "name": "Bikram Singh",
+    "college": "Asansol ITI",
+    "address": "Asansol, West Bengal",
+    "certificateNo": "201940000417406",
+    "fees": 2000
   },
   {
-    "rollNo": "1",
-    "name": "1",
-    "college": "1",
-    "address": "1",
-    "certificateNo": "1"
+    "rollNo": "R180819001301",
+    "name": "Arpita Ghosh",
+    "college": "Bankura ITI",
+    "address": "Bankura, West Bengal",
+    "certificateNo": "201940000419803",
+    "fees": 2000
   },
   {
-    "rollNo": "jhghgf",
-    "name": "ftyftyft",
-    "college": "Ggg",
-    "address": "iygtiuytiu",
-    "certificateNo": "[piuyo"
+    "rollNo": "R180819033124",
+    "name": "Anirban Sen",
+    "college": "Siliguri ITI",
+    "address": "Siliguri, West Bengal",
+    "certificateNo": "201940000467606",
+    "fees": 2000
   },
   {
-    "rollNo": "180819087216",
-    "name": "kigyuiygtu",
-    "college": "ututyu",
-    "address": "hjhgjkg",
-    "certificateNo": "ghjgj"
+    "rollNo": "R180819033212",
+    "name": "Rituparna Paul",
+    "college": "Jalpaiguri ITI",
+    "address": "Jalpaiguri, West Bengal",
+    "certificateNo": "201940047614815",
+    "fees": 2000
   },
   {
-    "rollNo": "180819087217",
-    "name": "kigyuiygtu",
-    "college": "ututyu",
-    "address": "hjhgjkg",
-    "certificateNo": "ghjgj"
+    "rollNo": "R180819033217",
+    "name": "Sanjay Gupta",
+    "college": "Cooch Behar ITI",
+    "address": "Cooch Behar, West Bengal",
+    "certificateNo": "202040000498054",
+    "fees": 2000
   },
   {
-    "rollNo": "hgfh",
-    "name": "fghfgh",
-    "college": "hgfg",
-    "address": "hgfgfh",
-    "certificateNo": "fftghy"
+    "rollNo": "R180819034028",
+    "name": "Piyali Mitra",
+    "college": "Murshidabad ITI",
+    "address": "Berhampore, West Bengal",
+    "certificateNo": "202040001534789",
+    "fees": 2000
   },
   {
-    "rollNo": "fg",
-    "name": "gfg",
-    "college": "fggf",
-    "address": "gfg",
-    "certificateNo": "fggf",
-    "fees": 545
+    "rollNo": "R180819036520",
+    "name": "Amit Bhattacharya",
+    "college": "Howrah ITI",
+    "address": "Howrah, West Bengal",
+    "certificateNo": "202040020498107",
+    "fees": 2000
   },
   {
-    "rollNo": "45554",
-    "name": "54",
-    "college": "554",
-    "address": "545",
-    "certificateNo": "45545",
-    "fees": 454
+    "rollNo": "R180819057241",
+    "name": "Tanmoy Kar",
+    "college": "Burdwan ITI",
+    "address": "Burdwan, West Bengal",
+    "certificateNo": "202040020509218",
+    "fees": 2000
   },
   {
-    "rollNo": "poi",
-    "name": "pp",
-    "college": "opk",
-    "address": "poiu",
-    "certificateNo": "789",
-    "fees": 741
+    "rollNo": "R180819087038",
+    "name": "Sudipta Banerjee",
+    "college": "Medinipur ITI",
+    "address": "Medinipur, West Bengal",
+    "certificateNo": "202040020518209",
+    "fees": 2000
   },
   {
-    "rollNo": "4569",
-    "name": "pui",
-    "college": "uio",
-    "address": "uoiuou",
-    "certificateNo": "78997",
-    "fees": 456456
+    "rollNo": "R180819101391",
+    "name": "Subhojit Roy",
+    "college": "Haldia ITI",
+    "address": "Haldia, West Bengal",
+    "certificateNo": "202040020519234",
+    "fees": 2000
   },
   {
-    "rollNo": "456",
-    "name": "yuiy",
-    "college": "uyiy",
-    "address": "uyiy",
-    "certificateNo": "uyiy",
-    "fees": 789
+    "rollNo": "R180819960784",
+    "name": "Kaushik Mukherjee",
+    "college": "Kharagpur ITI",
+    "address": "Kharagpur, West Bengal",
+    "certificateNo": "202140000952907",
+    "fees": 2000
   },
   {
-    "rollNo": "87999789",
-    "name": "iop",
-    "college": "iphyp",
-    "address": "iphoh",
-    "certificateNo": "ihpohpi",
-    "fees": 64654
+    "rollNo": "R180819961807",
+    "name": "Nabanita Pal",
+    "college": "Bishnupur ITI",
+    "address": "Bishnupur, West Bengal",
+    "certificateNo": "202140100418517",
+    "fees": 2000
   },
   {
-    "rollNo": "12",
-    "name": "kl;",
-    "college": "lp",
-    "address": "[[",
-    "certificateNo": "l;l;k",
-    "fees": 78
+    "rollNo": "R180824004637",
+    "name": "Debasish Sen",
+    "college": "Alipurduar ITI",
+    "address": "Alipurduar, West Bengal",
+    "certificateNo": "202240000953917",
+    "fees": 2000
   },
   {
-    "rollNo": "hjh",
-    "name": "hjh",
-    "college": "hjhhj",
-    "address": "hjhj",
-    "certificateNo": "hhjhj",
-    "fees": 1875
+    "rollNo": "R180858724349",
+    "name": "Moumita Das",
+    "college": "Baruipur ITI",
+    "address": "Baruipur, West Bengal",
+    "certificateNo": "202290070501248",
+    "fees": 2000
   },
   {
-    "rollNo": "90807060",
-    "name": "The new mutants",
-    "college": "Ggg",
-    "address": "Hhhhh",
-    "certificateNo": "Ghj",
-    "fees": 3256
+    "rollNo": "R180927074658",
+    "name": "Rajib Naskar",
+    "college": "Sonarpur ITI",
+    "address": "Sonarpur, West Bengal",
+    "certificateNo": "202340000415790",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190809130853",
+    "name": "Subham Halder",
+    "college": "Barrackpore ITI",
+    "address": "Barrackpore, West Bengal",
+    "certificateNo": "202440000001963",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190809178965",
+    "name": "Prosenjit Adhikary",
+    "college": "Tollygunge ITI",
+    "address": "Tollygunge, West Bengal",
+    "certificateNo": "210828046205",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190819017524",
+    "name": "Arijit Chatterjee",
+    "college": "Chandannagar ITI",
+    "address": "Chandannagar, West Bengal",
+    "certificateNo": "210907200125905",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190819046373",
+    "name": "Pranab Roy",
+    "college": "Kalyani ITI",
+    "address": "Kalyani, West Bengal",
+    "certificateNo": "210930007253041",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190819074109",
+    "name": "Sayantan Dey",
+    "college": "Naihati ITI",
+    "address": "Naihati, West Bengal",
+    "certificateNo": "210940000002022",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190819074121",
+    "name": "Payel Roy",
+    "college": "Srirampur ITI",
+    "address": "Srirampur, West Bengal",
+    "certificateNo": "212240200529628",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190819074215",
+    "name": "Rohan Banerjee",
+    "college": "Barasat ITI",
+    "address": "Barasat, West Bengal",
+    "certificateNo": "220960000030142",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820013159",
+    "name": "Sumanta Basu",
+    "college": "Krishnanagar ITI",
+    "address": "Krishnanagar, West Bengal",
+    "certificateNo": "230940000001100",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820017607",
+    "name": "Manoj Saha",
+    "college": "Basirhat ITI",
+    "address": "Basirhat, West Bengal",
+    "certificateNo": "230940000002023",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820059827",
+    "name": "Suman Kar",
+    "college": "Uluberia ITI",
+    "address": "Uluberia, West Bengal",
+    "certificateNo": "230940000001081",
+    "fees": 2000
+  },
+
+  {
+    "rollNo": "R190820095723",
+    "name": "Ankita Mukherjee",
+    "college": "Habra ITI",
+    "address": "Habra, West Bengal",
+    "certificateNo": "230940000003001",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820109578",
+    "name": "Samir Ghosh",
+    "college": "Canning ITI",
+    "address": "Canning, West Bengal",
+    "certificateNo": "231040000002103",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820137643",
+    "name": "Trina Roy",
+    "college": "Diamond Harbour ITI",
+    "address": "Diamond Harbour, West Bengal",
+    "certificateNo": "231140000001208",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820164839",
+    "name": "Rajat Singh",
+    "college": "Shyamnagar ITI",
+    "address": "Shyamnagar, West Bengal",
+    "certificateNo": "231240000001305",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190820184920",
+    "name": "Debjani Das",
+    "college": "Salt Lake ITI",
+    "address": "Salt Lake, West Bengal",
+    "certificateNo": "231340000002101",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821000714",
+    "name": "Joydeep Paul",
+    "college": "New Town ITI",
+    "address": "New Town, West Bengal",
+    "certificateNo": "231440000001920",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821017563",
+    "name": "Meghna Kar",
+    "college": "Bally ITI",
+    "address": "Bally, West Bengal",
+    "certificateNo": "231540000002803",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821025734",
+    "name": "Ayan Biswas",
+    "college": "Serampore ITI",
+    "address": "Serampore, West Bengal",
+    "certificateNo": "231640000002902",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821037821",
+    "name": "Ishani Saha",
+    "college": "Chinsurah ITI",
+    "address": "Chinsurah, West Bengal",
+    "certificateNo": "231740000001802",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821045632",
+    "name": "Soumyajit Das",
+    "college": "Bhatpara ITI",
+    "address": "Bhatpara, West Bengal",
+    "certificateNo": "231840000002112",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821058723",
+    "name": "Anushka Dey",
+    "college": "Dankuni ITI",
+    "address": "Dankuni, West Bengal",
+    "certificateNo": "231940000002003",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821067845",
+    "name": "Rishav Ghosh",
+    "college": "Konnagar ITI",
+    "address": "Konnagar, West Bengal",
+    "certificateNo": "232040000002107",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821078942",
+    "name": "Dipankar Pal",
+    "college": "Ranaghat ITI",
+    "address": "Ranaghat, West Bengal",
+    "certificateNo": "232140000001908",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821089107",
+    "name": "Sunita Sharma",
+    "college": "Birbhum ITI",
+    "address": "Birbhum, West Bengal",
+    "certificateNo": "232240000002201",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821095263",
+    "name": "Sayan Dutta",
+    "college": "Jhargram ITI",
+    "address": "Jhargram, West Bengal",
+    "certificateNo": "232340000002310",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821104823",
+    "name": "Rupali Gupta",
+    "college": "Purulia ITI",
+    "address": "Purulia, West Bengal",
+    "certificateNo": "232440000001805",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821118904",
+    "name": "Kamal Roy",
+    "college": "Kolkata Govt. ITI",
+    "address": "Kolkata, West Bengal",
+    "certificateNo": "232540000001701",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821123467",
+    "name": "Shweta Bhattacharya",
+    "college": "Howrah Private ITI",
+    "address": "Howrah, West Bengal",
+    "certificateNo": "232640000001905",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821134578",
+    "name": "Ritu Raj",
+    "college": "Balurghat ITI",
+    "address": "Balurghat, West Bengal",
+    "certificateNo": "232740000002105",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821145789",
+    "name": "Suman Paul",
+    "college": "Gangarampur ITI",
+    "address": "Gangarampur, West Bengal",
+    "certificateNo": "232840000001704",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821157893",
+    "name": "Sneha Chakraborty",
+    "college": "Sainthia ITI",
+    "address": "Sainthia, West Bengal",
+    "certificateNo": "232940000002307",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821167804",
+    "name": "Subrata Naskar",
+    "college": "Jangipur ITI",
+    "address": "Jangipur, West Bengal",
+    "certificateNo": "233040000002301",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821178965",
+    "name": "Monalisa Ghosh",
+    "college": "Halisahar ITI",
+    "address": "Halisahar, West Bengal",
+    "certificateNo": "233140000001602",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821189002",
+    "name": "Pranay Gupta",
+    "college": "Domjur ITI",
+    "address": "Domjur, West Bengal",
+    "certificateNo": "233240000001803",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821197865",
+    "name": "Kushal Dey",
+    "college": "Baranagar ITI",
+    "address": "Baranagar, West Bengal",
+    "certificateNo": "233340000001706",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821206789",
+    "name": "Taniya Mondal",
+    "college": "Baguiati ITI",
+    "address": "Baguiati, West Bengal",
+    "certificateNo": "233440000001805",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821215987",
+    "name": "Ritwik Dutta",
+    "college": "Behala ITI",
+    "address": "Behala, West Bengal",
+    "certificateNo": "233540000002207",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821225463",
+    "name": "Priyanka Sinha",
+    "college": "Sealdah ITI",
+    "address": "Sealdah, West Bengal",
+    "certificateNo": "233640000001905",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821234679",
+    "name": "Amitava Roy",
+    "college": "Nagerbazar ITI",
+    "address": "Nagerbazar, West Bengal",
+    "certificateNo": "233740000002101",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R190821246891",
+    "name": "Supriya Chatterjee",
+    "college": "Park Street ITI",
+    "address": "Park Street, West Bengal",
+    "certificateNo": "233840000002308",
+    "fees": 2000
   }
 ]
