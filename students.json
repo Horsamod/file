@@ -239,7 +239,6 @@
     "certificateNo": "230940000001081",
     "fees": 2000
   },
-
   {
     "rollNo": "R190820095723",
     "name": "Ankita Mukherjee",
@@ -478,6 +477,14 @@
     "college": "Park Street ITI",
     "address": "Park Street, West Bengal",
     "certificateNo": "233840000002308",
+    "fees": 2000
+  },
+  {
+    "rollNo": "R21089901643",
+    "name": "MAJHARUL ISLAM KHAN",
+    "college": "DHALDANGA",
+    "address": "DHALDANGA",
+    "certificateNo": "232190010642464",
     "fees": 2000
   }
 ]
