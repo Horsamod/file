@@ -114,5 +114,14 @@
     "area": "PUNISOLE",
     "profile_image": "https://raw.githubusercontent.com/Horsamod/file/main/image/profile_1729956771951_IMG-20240914-WA0000.jpg",
     "donators": []
+  },
+  {
+    "email": "asdf@gmail.com",
+    "mobile": "789456",
+    "password": "789456",
+    "full_name": "asdf",
+    "area": "punisolr",
+    "profile_image": "",
+    "donators": []
   }
 ]
