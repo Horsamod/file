@@ -5,7 +5,9 @@
     "college": "Dhaldanga Private ITI",
     "issueDate": "2025-04-13",
     "certificateNo": "240934816575923",
-    "fees": 0
+    "fees": 0,
+    "status": "Due",
+    "updatedAt": "2025-04-20T07:25:01.253Z"
   },
   {
     "rollNo": "220842095400",
