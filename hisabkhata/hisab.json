@@ -1,1 +1,78 @@
-[]
+{
+  "deposits": [
+    {
+      "person": "ITIDUP",
+      "business": "From surojit",
+      "date": "2026-03-14",
+      "amount": 2400,
+      "note": "2 pic",
+      "recurring": false,
+      "id": 1773804748209
+    },
+    {
+      "person": "ITIDUP",
+      "business": "From Surojit",
+      "date": "2026-03-17",
+      "amount": 1200,
+      "note": "1 pic",
+      "recurring": false,
+      "id": 1773804776158
+    },
+    {
+      "person": "Amdadul",
+      "business": "Yubasathi",
+      "date": "2026-03-15",
+      "amount": 1500,
+      "note": "",
+      "recurring": false,
+      "id": 1773804874586
+    },
+    {
+      "person": "Amdadul",
+      "business": "Siment",
+      "date": "2026-03-10",
+      "amount": 230,
+      "note": "Siment theke",
+      "recurring": false,
+      "id": 1773805356510
+    }
+  ],
+  "expenses": [
+    {
+      "who": "Amdadul",
+      "date": "2026-03-17",
+      "amount": 30,
+      "category": "food",
+      "note": "Biscit",
+      "recurring": false,
+      "id": 1773805126084
+    },
+    {
+      "who": "Amdadul",
+      "date": "2026-03-17",
+      "amount": 20,
+      "category": "food",
+      "note": "Tika",
+      "recurring": false,
+      "id": 1773805150166
+    },
+    {
+      "who": "Amdadul",
+      "date": "2026-03-17",
+      "amount": 30,
+      "category": "food",
+      "note": "Egg 3pic",
+      "recurring": false,
+      "id": 1773805242801
+    },
+    {
+      "who": "Amdadul",
+      "date": "2026-03-18",
+      "amount": 20,
+      "category": "other",
+      "note": "Khaini",
+      "recurring": false,
+      "id": 1773805425706
+    }
+  ]
+}
