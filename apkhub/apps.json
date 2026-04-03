@@ -1,0 +1,19 @@
+[
+  {
+    "id": "app_1775200092322",
+    "name": "CSS Variable Manager",
+    "pkg": "com.horsa.cvm",
+    "version": "1.0.0",
+    "category": "Tools",
+    "desc": "The CSS Color Variables Manager is a user-friendly web-based tool designed to help developers efficiently create, manage, and organize CSS color variables. It provides an interactive interface where users can store color codes, assign meaningful variable names, and document their usage within a project. This tool simplifies the process of maintaining consistent design systems, especially in large-scale web applications.\n🔹 Key Features:\nAdd & Manage Colors: Users can easily add new color variables with a color code, variable name, and usage description.\nEdit & Delete: Existing variables can be updated or removed anytime.\nLive Preview: Each color is displayed visually, making identification quick and intuitive.\nSearch Functionality: Users can search colors by name, code, or usage for faster access.\nCSS Code Generation: Automatically generates ready-to-use CSS variables in :root format.\nCopy to Clipboard: Quickly copy color codes or full CSS declarations.\nLocal Storage Support: Saves all data in the browser, so information is not lost after refresh.\nExport Option: Allows exporting color variables as a JSON file for backup or sharing.\n🔹 Use Cases:\nManaging design systems\nCreating consistent UI themes\nFrontend development projects\nLearning and practicing CSS variables\nOverall, this tool improves productivity and ensures consistency in styling by centralizing color management in one place.",
+    "tags": [],
+    "apkUrl": "https://raw.githubusercontent.com/Horsamod/file/main/apkhub/apks/com_horsa_cvm_v1.0.0.apk",
+    "logoUrl": "https://raw.githubusercontent.com/Horsamod/file/main/apkhub/logos/com_horsa_cvm.jpg",
+    "screenshots": [],
+    "size": "5.2 MB",
+    "sdk": "Android 7.0+",
+    "status": "published",
+    "developer": "Horsamod",
+    "date": "2026-04-03"
+  }
+]
